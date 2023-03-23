@@ -1,0 +1,7 @@
+.first {
+  display: flex;
+  background-color: red;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+}
